@@ -1,1 +1,1 @@
-A Python application that calculates APS scores and checks course eligibility for Sol Plaatje University applicants.
+This is an aps calculator app that help Slo platjie university's prospective students check their aps and the courses that they qualify for.
